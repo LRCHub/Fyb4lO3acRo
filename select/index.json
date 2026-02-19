@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ちゅ、多様性。",
+  "base_artist": "ano",
+  "createdAt": "2026-02-19T06:15:28.781090Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ちゅ、多様性。",
+      "artist": "ano",
+      "has_synced": true,
+      "path": "select/01_ちゅ、多様性。_ano.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ちゅ、多様性。",
+      "artist": "ano",
+      "has_synced": true,
+      "path": "select/02_ちゅ、多様性。_ano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ちゅ、多様性。",
+      "artist": "ano",
+      "has_synced": true,
+      "path": "select/03_ちゅ、多様性。_ano.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ちゅ、多様性。 - Chu,Tayousei.",
+      "artist": "ano",
+      "has_synced": true,
+      "path": "select/04_ちゅ、多様性。_-_Chu,Tayousei._ano.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ちゅ、多様性。",
+      "artist": "ano",
+      "has_synced": true,
+      "path": "select/05_ちゅ、多様性。_ano.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ちゅ、多様性。 - Chu,Tayousei.",
+      "artist": "ano",
+      "has_synced": true,
+      "path": "select/06_ちゅ、多様性。_-_Chu,Tayousei._ano.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ちゅ、多様性。",
+      "artist": "ano",
+      "has_synced": true,
+      "path": "select/07_ちゅ、多様性。_ano.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ちゅ、多様性。",
+      "artist": "ano",
+      "has_synced": false,
+      "path": "select/08_ちゅ、多様性。_ano.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ちゅ、多様性。",
+      "artist": "ano",
+      "has_synced": true,
+      "path": "select/09_ちゅ、多様性。_ano.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ちゅ、多様性。- From THE FIRST TAKE",
+      "artist": "Ano",
+      "has_synced": true,
+      "path": "select/10_ちゅ、多様性。-_From_THE_FIRST_TAKE_Ano.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ちゅ、多様性。",
+      "artist": "346PRO",
+      "has_synced": true,
+      "path": "select/11_ちゅ、多様性。_346PRO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ちゅ、多様性。",
+      "artist": "ano",
+      "has_synced": false,
+      "path": "select/pl_01_ちゅ、多様性。_ano.txt"
+    }
+  ]
+}
